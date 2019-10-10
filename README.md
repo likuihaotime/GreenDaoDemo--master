@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GreenDaoDemo
 GreenDao3.2的使用，仿购物车Demo
 
@@ -51,3 +52,7 @@ public class LoveDao {
 ## 原文地址
 
 CSDN博客：http://blog.csdn.net/qq_30379689/article/details/54410838
+=======
+# GreenDaoDemo--master
+greenDAO的简单应用
+>>>>>>> eba0d889e4709e60b155b38d7040668119d0fb6e
